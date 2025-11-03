@@ -68,6 +68,13 @@ Configuración y estructura de la base de datos del sistema.
 - **Base de datos:** SQL o JSON
 - **Recursos:** Imágenes
 - **Documento Técnico:**
-  - Descripción de la arquitectura del sistema
+- Descripción de la arquitectura del sistema
+
+## Distribucion
+ 
+13-2-3-4  Gert
+7-8-10  Maxi
+5-6-9 Dani
+11-12-1 Cesar
   - Justificación del uso de `ModelForm`
-  - Diagrama del modelo de datos
+    Diagrama del modelo de datos
