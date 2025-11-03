@@ -1,4 +1,4 @@
-# 🏥 Sistema de Gestión Médica
+# 🏥 Sistema de Gestión Médica 
 
 ## 🧩 Estructura General del Proyecto
 
